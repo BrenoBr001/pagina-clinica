@@ -12,7 +12,7 @@
 
 #### -Além de outros recursos falados nas aulas!
 
-O desafio foi bem interressante e me ajudou bastante em utilizar as habilidades adquiridos no módulo 2 do curso de FORMAÇÃO HTML DA DIO...
+O desafio foi bem interessante e me ajudou bastante em utilizar as habilidades adquiridos no módulo 2 do curso de FORMAÇÃO HTML DA DIO...
 
 ![Captura de tela 2024-03-14 182724](https://github.com/BrenoBr001/pagina-clinica/assets/129623940/7625ba12-451e-4473-bd30-bd585547c086)
 
